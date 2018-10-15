@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Hosting;
 
 namespace fp_stack.api
-{
+{//
     public class Program
     {
         public static void Main(string[] args)
