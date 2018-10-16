@@ -13,7 +13,7 @@ namespace fp_stack.api.Controllers
     //[Route("api/v{apiVersion}/[controller]")]
     //[ApiVersion("1.0")]
     //[EnableCors("Default")]
-    [CustomAuthorize]
+    //[CustomAuthorize]
     public class PerguntasController : ControllerBase
     {
         private readonly Context _context;
